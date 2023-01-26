@@ -1,0 +1,6 @@
+user=doadmin
+password=AVNS_2COZ6cf3Cd1WujYpJdO
+host=db-mysql-nyc1-85544-do-user-13086797-0.b.db.ondigitalocean.com
+port=25060
+database=defaultdb
+sslmode=REQUIRED

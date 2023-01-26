@@ -1,0 +1,31 @@
+
+#add-group-form,
+#new-group-form {
+  width: 100%;
+}
+
+#login-form label,
+#register-form label,
+#add-group-form label,
+#new-group-form label,
+#add-bill-form label {
+  display: inline-block;
+  width: 140px;
+  margin-top: 30px;
+  font-weight: 400;
+}
+
+#login-form input,
+#register-form input,
+#add-group-form input,
+#add-group-form select,
+#new-group-form input,
+#add-bill-form input {
+  margin-top: 10px;
+  text-indent: 40px;
+  height: 40px;
+  width: 100%;
+  border: 1px solid #e2e8f0;
+  border-radius: 5px;
+  box-shadow: 0px 2px 3px 0px rgba(179, 179, 179, 0.23);
+}
